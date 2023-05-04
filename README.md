@@ -18,8 +18,11 @@ git clone https://github.com/coskugirgin/myfirstrepowithkodluyoruz.git
 
 After cloning the project, open it with VSC
 
+For Linux; 
+
 ```
-for Linux cd kodluyoruzilkrepo code .
+cd kodluyoruzilkrepo
+code .
 ```
 
 ## Contributing
