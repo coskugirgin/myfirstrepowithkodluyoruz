@@ -10,7 +10,10 @@ This is my very first repository with [Kodluyoruz](https://kodluyoruz.org/)-[Pat
 
 First clone the project
 
+´´´
 git clone https://github.com/coskugirgin/myfirstrepowithkodluyoruz.git
+´´´
+
 
 
 ## Usage
@@ -18,8 +21,10 @@ git clone https://github.com/coskugirgin/myfirstrepowithkodluyoruz.git
 
 After cloning the project open it with VSC
 
-for Linux cd kodluyoruzilkrepo code.
 
+´´´
+for Linux cd kodluyoruzilkrepo code .
+´´´
 
 ## Contributing
 
@@ -31,3 +36,5 @@ Pull requests are acceptable. For big changes, please open a topic to discuss ab
 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
