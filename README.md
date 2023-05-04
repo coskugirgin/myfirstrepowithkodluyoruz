@@ -8,7 +8,7 @@ This is my very first repository with [Kodluyoruz](https://kodluyoruz.org/)-[Pat
 
 ## Instalation
 
-First clone the project
+First, clone the project
 
 ```
 git clone https://github.com/coskugirgin/myfirstrepowithkodluyoruz.git
@@ -16,7 +16,7 @@ git clone https://github.com/coskugirgin/myfirstrepowithkodluyoruz.git
 
 ## Usage
 
-After cloning the project open it with VSC
+After cloning the project, open it with VSC
 
 ```
 for Linux cd kodluyoruzilkrepo code .
